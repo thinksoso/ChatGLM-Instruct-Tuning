@@ -38,5 +38,10 @@ bash scripts/finetune.sh
 
 ### 推理
 ```
+# 要先把文件中的 "output/your_model_dir"替换为实际模型路径
 python infer.py
 ```
+
+### 交流
+如果有疑问和建议，欢迎加入我们的大模型交流群
+<img src="assets/wechat_group.jpg" alt="group" style="width: 50%; min-width: 300px; display: block; margin: auto;">
